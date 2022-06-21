@@ -23,7 +23,7 @@ const url = "https://testflight.apple.com/join/";
 const $ = new Env('TestFilght监控');
 /**
  * 填入要监测的appkey。从testfligt地址获取。
- * 例如"VCIvwk2g,wArXdacJ,2vnRvOTX,LzjySbQx,IdFRwmNy,qDkBu2ur,4Qt2lIm5,ZzqOu8tX,ftCqFe6D,fy7LvHVA,QKqitFwc"
+ * 例如"VCIvwk2g,wArXdacJ,2vnRvOTX,LzjySbQx,IdFRwmNy,qDkBu2ur,4Qt2lIm5,ZzqOu8tX,ftCqFe6D,fy7LvHVA"
 */
 const appkey = "h9SFKFL8,w0G9VGBq";
 //const appkey = $.getdata('appkey');
